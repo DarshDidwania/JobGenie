@@ -1,0 +1,6 @@
+streamlit
+sentence-transformers
+scikit-learn
+mysql-connector-python
+spacy
+torch
