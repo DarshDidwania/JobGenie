@@ -1,5 +1,7 @@
-streamlit
 spacy
+thinc
+cupy
+mysql-connector-python
 scikit-learn
 pandas
 numpy
@@ -7,5 +9,4 @@ sentence-transformers
 pdfplumber
 matplotlib
 nltk
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
-mysql-connector-python
+spacy-model-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
