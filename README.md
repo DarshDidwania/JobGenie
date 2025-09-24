@@ -13,12 +13,3 @@ Career Advice: Get helpful tips on resume building, networking, and staying upda
 Trending Keywords: See a list of the most popular keywords from job descriptions to help tailor your resume and search.
 
 Analytics Dashboard: Visualize key job market data, including top keywords, locations, and job titles.
-
-💻 Prerequisites
-Before you begin, ensure you have the following installed:
-
-Python: Version 3.12 or newer.
-
-Docker (optional, for containerized setup).
-
-A MySQL database instance for job data storage.
